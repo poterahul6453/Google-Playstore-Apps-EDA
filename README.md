@@ -28,12 +28,3 @@ The analysis was conducted using Python and the following key libraries:
 
 ---
 
-## 📂 Project Structure
-
-├── data/
-│   └── googleplaystore.csv       # The raw dataset
-├── notebooks/
-│   └── GooglePlaystoreProjectFile (1) (1).ipynb   # Jupyter Notebook containing the full analysis
-├── README.md                 # Project README file
-└── requirements.txt          # Contains a list of all required Python libraries
-
