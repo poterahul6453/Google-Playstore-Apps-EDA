@@ -29,10 +29,10 @@ The analysis was conducted using Python and the following key libraries:
 ---
 
 ## 📂 Project Structure
-.
-├── googleplaystore.csv       # The raw dataset
-├── GooglePlaystoreProjectFile (1) (1).ipynb   # Jupyter Notebook with the analysis
-└── README.md                 # This file
+
+-├── googleplaystore.csv       # The raw dataset
+-├── GooglePlaystoreProjectFile   # Jupyter Notebook with the analysis
+-└── README.md                 # This file
 
 
 
